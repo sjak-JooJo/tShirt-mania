@@ -14,4 +14,4 @@ const TShirt = ({handleAddToCart, tShirt}) => {
     );
 };
 
-export default TShirt;
+export default TShirt; 
